@@ -4,7 +4,7 @@ Finally, a clean and basic dashboard with simple color choices is offered for a 
 Presenting a new spending tracker application in React that includes a user panel with critical follow-up capabilities and a knowledgeable resource for learning reasons.
 # Features
 a Manage Expense
-b Manage income
+b <br /> Manage income
 c History Management
 d Delete Expense and Income
 e Total Balance Calculation
